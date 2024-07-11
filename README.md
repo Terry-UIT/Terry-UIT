@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Terry</h1>
-<h3 align="center">I'm glad to see you here! As a software engineering student, I have experience in front-end, and back-end, much like a full-stack software engineer. I am passionate about programming, writing, speaking, and discovering new places. My approach to software engineering reflects my meticulous attention to detail and a strong desire to create impactful solutions. This drives me to work on projects that can make a meaningful difference.</h3>
+<h3 align="left">I'm glad to see you here! As a software engineering student, I have experience in front-end, and back-end, much like a full-stack software engineer. I am passionate about programming, writing, speaking, and discovering new places. My approach to software engineering reflects my meticulous attention to detail and a strong desire to create impactful solutions. This drives me to work on projects that can make a meaningful difference.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terry-uit&label=Profile%20views&color=0e75b6&style=flat" alt="terry-uit" /> </p>
 
