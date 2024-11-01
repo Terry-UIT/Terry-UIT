@@ -13,6 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Mainly used:</h4>
+<h5 align="left">For universal tools, respectively:</h5>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
