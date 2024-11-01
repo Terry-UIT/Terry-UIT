@@ -12,8 +12,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Mainly used:</h4>
-<h5 align="left">For universal tools, respectively:</h5>
+<h4 align="left">- Mainly used:</h4>
+<h5 align="left">  + For universal tools, respectively:</h5>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -22,7 +22,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
-<h5 align="left">For mobile application development, respectively:</h5>
+<h5 align="left">  + For mobile application development, respectively:</h5>
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -34,7 +34,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 </p>
-<h5 align="left">For web (application) development, respectively:</h5>
+<h5 align="left">  + For web (application) development, respectively:</h5>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -49,7 +49,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
-<h5 align="left">For Windows desktop application development, respectively:</h5>
+<h5 align="left">  + For Windows desktop application development, respectively:</h5>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
 </p>
-<h4 align="left">I have little experience with: </h4>
+<h4 align="left">- I have little experience with: </h4>
 <p align="left">
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
