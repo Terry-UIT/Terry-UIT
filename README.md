@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terry-uit&label=Profile%20views&color=0e75b6&style=flat" alt="terry-uit" /> </p>
 
 - 📫 How to reach me: **se.terry.2004.career@gmail.com**
+- Facebook: **facebook.com/publ.terry/**
+- LinkedIn: **linkedin.com/in/dev-terry/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
